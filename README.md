@@ -20,3 +20,7 @@ git clone https://github.com/razarehman120/Todo-List-App
 cd Todo-List-App
 npm install
 npx react-native run-android
+
+
+https://github.com/user-attachments/assets/96d30788-febc-46bf-9b55-9732e5c73cbd
+
